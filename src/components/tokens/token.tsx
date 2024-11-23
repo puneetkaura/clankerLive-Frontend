@@ -33,15 +33,16 @@ const TokenInfo: React.FC<TokenInfoProps> = ({ token, creator, holders }) => {
   return (
     <div className="hover:shadow-3xl mx-auto max-w-4xl rounded-xl bg-gradient-to-br from-blue-100 to-purple-100 p-6 shadow-2xl transition-all duration-300">
       {/* Token and Creator Section */}
-      <div className="flex flex-col gap-8 lg:flex-row lg:justify-between">
+      <div className="flex flex-col gap-3 lg:justify-between">
         {/* Token Info */}
         <div className="flex flex-col items-center text-center lg:flex-1">
           <div className="group relative">
             <img
               src={token.image}
               alt={token.name}
-              className="h-24 w-24 rounded-full border-4 border-purple-300 shadow-lg transition-transform duration-500 group-hover:rotate-12 group-hover:scale-110"
+              className="min-h-24 min-w-24 rounded-full border-4 border-purple-300 shadow-lg transition-transform duration-500 group-hover:rotate-12 group-hover:scale-110"
             />
+
             <div className="absolute inset-0 rounded-full bg-purple-100 opacity-70 blur-2xl transition-opacity group-hover:opacity-90"></div>
           </div>
           <div className="mt-4">
