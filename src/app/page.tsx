@@ -6,7 +6,7 @@ export default function Home() {
       <h1 className="mb-6 pt-3 text-center text-2xl font-bold text-gray-900">
         🚀 Welcome to Acme Clanker
       </h1>
-      <div className="flex flex-col gap-3">
+      <div className="flex flex-col gap-4">
         <Tokens />
         <Tokens />
         <Tokens />
