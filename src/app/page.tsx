@@ -133,7 +133,7 @@ export default function Home() {
               description:
                 '💬 A commenting system designed for engaging users in discussions and feedback on your platform.',
             },
-          ].map((card) => (
+          ].map(card => (
             <Card
               key={card.title}
               title={card.title}

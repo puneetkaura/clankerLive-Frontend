@@ -85,7 +85,7 @@ updatePackageJson(
   'A starter template for Next.js projects.'
 ); // Update author and description
 
-fieldsToRemove.forEach((field) => {
+fieldsToRemove.forEach(field => {
   console.log(`\n🗑️ Removing field: ${field} from package.json...`);
   removeFieldFromPackageJson(field);
 });

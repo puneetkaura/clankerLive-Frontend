@@ -33,7 +33,8 @@ To create a new Next.js app using this starter template, run the following comma
 npx @berlinbruno/nextjs-starter my-app
 
 ```
-## ⚙️ Usage 
+
+## ⚙️ Usage
 
 Customize the template according to your project requirements. Key areas to modify include:
 
@@ -49,4 +50,3 @@ Contributions are welcome! Feel free to submit issues or pull requests to help i
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE). See the LICENSE file for more details.
-
