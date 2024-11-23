@@ -1,0 +1,34 @@
+{
+  "token": {
+    "image": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/295953fa-15ed-4d3c-241d-b6c1758c6200/original",
+    "name": "NITWITCAT",
+    "ticker": "Hrrrm",
+    "marketCap": "$44K",
+    "totalVolume": "Last 1H: $17K | Last 5M: $520K",
+    "launchedTime": "4 minutes ago"
+  },
+  "creator": {
+    "name": "jasonmeinzer.eth",
+    "profilePic": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8dcf9537-79c8-4188-334c-8fa1846d8d00/original",
+    "bio": "Product Manager pursuing onchain music | onchain artist relations",
+    "followers": 667,
+    "notableClankerBadge": true
+  },
+  "holders": [
+    {
+      "name": "alongnameishere001",
+      "profilePic": "https://wrpcd.net/cdn-cgi/image/anim=false,fit=contain,f=auto,w=336/https%3A%2F%2Fi.imgur.com%2FHPkfH2C.png",
+      "followers": 667
+    },
+    {
+      "name": "amediumname",
+      "profilePic": "https://wrpcd.net/cdn-cgi/imagedelivery/BXluQx4ige9GuW0Ia56BHw/5f5138f5-c8ba-43c8-a7cf-ca5e140b0300/anim=false,fit=contain,f=auto,w=336",
+      "followers": 3001
+    },
+    {
+      "name": "short",
+      "profilePic": "https://wrpcd.net/cdn-cgi/image/anim=false,fit=contain,f=auto,w=336/https%3A%2F%2Fi.imgur.com%2Frod9f1y.jpg  ",
+      "followers": 3001
+    }
+  ]
+}

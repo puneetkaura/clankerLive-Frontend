@@ -70,9 +70,12 @@ export const viewport: Viewport = {
       media: '(prefers-color-scheme: light)',
       color: siteData.THEME_COLOR_LIGHT,
     },
-    { media: '(prefers-color-scheme: dark)', color: siteData.THEME_COLOR_DARK },
+    {
+      media: '(prefers-color-scheme: light)',
+      color: siteData.THEME_COLOR_LIGHT,
+    },
   ],
-  colorScheme: 'normal',
+  colorScheme: 'light',
 };
 
 export default function RootLayout({

@@ -22,7 +22,7 @@ export default function ModeToggle() {
       <button
         onClick={modeChange}
         aria-label={`Switch to ${theme === 'light' ? 'dark' : 'light'} mode`}
-        className="flex h-full items-center justify-center gap-2 rounded-full border border-solid border-transparent bg-foreground px-4 text-sm text-background transition-colors duration-300 hover:bg-muted hover:text-primary dark:bg-gray-800 dark:text-primary dark:hover:bg-gray-700"
+        className="flex h-full items-center justify-center gap-2 rounded-full border border-solid border-transparent bg-foreground px-4 text-sm text-background transition-colors duration-300 hover:bg-muted hover:text-primary"
       >
         <p>Toggle Theme</p>
         {theme === 'light' ? (
